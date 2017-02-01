@@ -1,11 +1,13 @@
-
-
 body {
 
-  font-size: 18px;
-  width: 960px;
-  background: #777;
-  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    width: 960px;
+    background: #777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+       
+    margin-left:auto;
+    margin-right:auto;
+    
 }
 
 
@@ -14,18 +16,18 @@ section,
 aside, 
 footer { 
 
-   	  padding: 20px;
-	  margin-bottom: 20px;
-	  text-align: center;
-	  background: #ebebeb 
+   	padding: 20px;
+	margin-bottom: 20px;
+    text-align: center;
+	background: #ebebeb 
 }
 
 section { 
-	 width: 495px; 
-	 float: left;
-	 margin-right: 20px;
-	 padding: 20px;
-	 clear: both;	
+	width: 495px; 
+	float: left;
+	margin-right: 20px;
+	padding: 20px;
+	clear: both;	
 }
 
 .title  {
@@ -57,11 +59,11 @@ article {
 
 p {
 
-  	 background-color: #ebebeb;
-	 padding: 20px;
+  	background-color: #ebebeb;
+	padding: 20px;
 
  }
 
 footer { 
 
-	 clear: both; }
+	clear: both; }
