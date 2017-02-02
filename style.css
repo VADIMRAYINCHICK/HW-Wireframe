@@ -3,10 +3,9 @@ body {
     font-size: 18px;
     width: 960px;
     background: #777;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-       
-    margin-left:auto;
-    margin-right:auto;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;    
+    margin-left: auto;
+    margin-right: auto;
     
 }
 
@@ -19,7 +18,8 @@ footer {
    	padding: 20px;
 	margin-bottom: 20px;
     text-align: center;
-	background: #ebebeb 
+	background: #ebebeb; 
+
 }
 
 section { 
@@ -66,4 +66,5 @@ p {
 
 footer { 
 
-	clear: both; }
+	clear: both;
+}
